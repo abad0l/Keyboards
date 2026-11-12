@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- three glass key caps -->
+    <path android:fillColor="#E6FFFFFF"
+        android:pathData="M30,38h12a4,4 0,0 1,4 4v8a4,4 0,0 1,-4 4h-12a4,4 0,0 1,-4 -4v-8a4,4 0,0 1,4 -4z"/>
+    <path android:fillColor="#E6FFFFFF"
+        android:pathData="M51,38h12a4,4 0,0 1,4 4v8a4,4 0,0 1,-4 4h-12a4,4 0,0 1,-4 -4v-8a4,4 0,0 1,4 -4z"/>
+    <path android:fillColor="#99FFFFFF"
+        android:pathData="M72,38h6a4,4 0,0 1,4 4v8a4,4 0,0 1,-4 4h-6a4,4 0,0 1,-4 -4v-8a4,4 0,0 1,4 -4z"/>
+    <path android:fillColor="#B3FFFFFF"
+        android:pathData="M30,58h48a4,4 0,0 1,4 4v6a4,4 0,0 1,-4 4h-48a4,4 0,0 1,-4 -4v-6a4,4 0,0 1,4 -4z"/>
+</vector>
